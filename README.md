@@ -16,3 +16,6 @@ This repository gathers the code and the presentations made during the meetup se
 - [Multi Layer Perceptron from scratch + SEMAPHORE](https://github.com/NightNeuralNetwork/Sessions/Session_3/MLP)
 
 - [Generative Adversarial Networks](https://github.com/NightNeuralNetwork/Sessions/Session_3/GAN)
+
+## Session 5
+- [Minecraft Reinforcement Learning Presentation](https://goo.gl/iwRSwN)
